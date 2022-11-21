@@ -8,16 +8,11 @@
         <a href="#Special">Especial </a>
         <a href="#popular">Popular </a>
       </nav>
-
     </header>
-
-
-   
   </div>
 </template>
 
 <script>
-
 </script>
 
 <style>
